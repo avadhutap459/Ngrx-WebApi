@@ -1,0 +1,377 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\NgrxTutorial\\SignIn.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A643EF8-6FA1-45A5-9BB6-C91E59DD9F6E}|SignIn.Api\\SignIn.Api.csproj|d:\\projects\\ngrxtutorial\\signin.api\\signin.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A643EF8-6FA1-45A5-9BB6-C91E59DD9F6E}|SignIn.Api\\SignIn.Api.csproj|solutionrelative:signin.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A643EF8-6FA1-45A5-9BB6-C91E59DD9F6E}|SignIn.Api\\SignIn.Api.csproj|d:\\projects\\ngrxtutorial\\signin.api\\signin.api\\service\\unitofwork\\clsunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A643EF8-6FA1-45A5-9BB6-C91E59DD9F6E}|SignIn.Api\\SignIn.Api.csproj|solutionrelative:signin.api\\service\\unitofwork\\clsunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A643EF8-6FA1-45A5-9BB6-C91E59DD9F6E}|SignIn.Api\\SignIn.Api.csproj|d:\\projects\\ngrxtutorial\\signin.api\\signin.api\\global\\exceptionhandlermiddelware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A643EF8-6FA1-45A5-9BB6-C91E59DD9F6E}|SignIn.Api\\SignIn.Api.csproj|solutionrelative:signin.api\\global\\exceptionhandlermiddelware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A643EF8-6FA1-45A5-9BB6-C91E59DD9F6E}|SignIn.Api\\SignIn.Api.csproj|d:\\projects\\ngrxtutorial\\signin.api\\signin.api\\service\\services\\jwtutilsrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A643EF8-6FA1-45A5-9BB6-C91E59DD9F6E}|SignIn.Api\\SignIn.Api.csproj|solutionrelative:signin.api\\service\\services\\jwtutilsrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A643EF8-6FA1-45A5-9BB6-C91E59DD9F6E}|SignIn.Api\\SignIn.Api.csproj|d:\\projects\\ngrxtutorial\\signin.api\\signin.api\\service\\services\\userservicerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A643EF8-6FA1-45A5-9BB6-C91E59DD9F6E}|SignIn.Api\\SignIn.Api.csproj|solutionrelative:signin.api\\service\\services\\userservicerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A643EF8-6FA1-45A5-9BB6-C91E59DD9F6E}|SignIn.Api\\SignIn.Api.csproj|d:\\projects\\ngrxtutorial\\signin.api\\signin.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A643EF8-6FA1-45A5-9BB6-C91E59DD9F6E}|SignIn.Api\\SignIn.Api.csproj|solutionrelative:signin.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A643EF8-6FA1-45A5-9BB6-C91E59DD9F6E}|SignIn.Api\\SignIn.Api.csproj|d:\\projects\\ngrxtutorial\\signin.api\\signin.api\\database\\dbmodel\\clsuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A643EF8-6FA1-45A5-9BB6-C91E59DD9F6E}|SignIn.Api\\SignIn.Api.csproj|solutionrelative:signin.api\\database\\dbmodel\\clsuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A643EF8-6FA1-45A5-9BB6-C91E59DD9F6E}|SignIn.Api\\SignIn.Api.csproj|d:\\projects\\ngrxtutorial\\signin.api\\signin.api\\models\\clstokenmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A643EF8-6FA1-45A5-9BB6-C91E59DD9F6E}|SignIn.Api\\SignIn.Api.csproj|solutionrelative:signin.api\\models\\clstokenmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projects\\NgrxTutorial\\SignIn.Api\\SignIn.Api\\Migrations\\20260208031721_add table .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SignIn.Api\\Migrations\\20260208031721_add table .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A643EF8-6FA1-45A5-9BB6-C91E59DD9F6E}|SignIn.Api\\SignIn.Api.csproj|d:\\projects\\ngrxtutorial\\signin.api\\signin.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2A643EF8-6FA1-45A5-9BB6-C91E59DD9F6E}|SignIn.Api\\SignIn.Api.csproj|solutionrelative:signin.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A643EF8-6FA1-45A5-9BB6-C91E59DD9F6E}|SignIn.Api\\SignIn.Api.csproj|d:\\projects\\ngrxtutorial\\signin.api\\signin.api\\service\\serviceextension\\clsserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A643EF8-6FA1-45A5-9BB6-C91E59DD9F6E}|SignIn.Api\\SignIn.Api.csproj|solutionrelative:signin.api\\service\\serviceextension\\clsserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A643EF8-6FA1-45A5-9BB6-C91E59DD9F6E}|SignIn.Api\\SignIn.Api.csproj|d:\\projects\\ngrxtutorial\\signin.api\\signin.api\\database\\ef\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A643EF8-6FA1-45A5-9BB6-C91E59DD9F6E}|SignIn.Api\\SignIn.Api.csproj|solutionrelative:signin.api\\database\\ef\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A643EF8-6FA1-45A5-9BB6-C91E59DD9F6E}|SignIn.Api\\SignIn.Api.csproj|d:\\projects\\ngrxtutorial\\signin.api\\signin.api\\service\\unitofwork\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A643EF8-6FA1-45A5-9BB6-C91E59DD9F6E}|SignIn.Api\\SignIn.Api.csproj|solutionrelative:signin.api\\service\\unitofwork\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A643EF8-6FA1-45A5-9BB6-C91E59DD9F6E}|SignIn.Api\\SignIn.Api.csproj|d:\\projects\\ngrxtutorial\\signin.api\\signin.api\\service\\interface\\iuserservicerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A643EF8-6FA1-45A5-9BB6-C91E59DD9F6E}|SignIn.Api\\SignIn.Api.csproj|solutionrelative:signin.api\\service\\interface\\iuserservicerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A643EF8-6FA1-45A5-9BB6-C91E59DD9F6E}|SignIn.Api\\SignIn.Api.csproj|d:\\projects\\ngrxtutorial\\signin.api\\signin.api\\service\\interface\\ijwtutilsrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A643EF8-6FA1-45A5-9BB6-C91E59DD9F6E}|SignIn.Api\\SignIn.Api.csproj|solutionrelative:signin.api\\service\\interface\\ijwtutilsrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A643EF8-6FA1-45A5-9BB6-C91E59DD9F6E}|SignIn.Api\\SignIn.Api.csproj|d:\\projects\\ngrxtutorial\\signin.api\\signin.api\\signin.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2A643EF8-6FA1-45A5-9BB6-C91E59DD9F6E}|SignIn.Api\\SignIn.Api.csproj|solutionrelative:signin.api\\signin.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A643EF8-6FA1-45A5-9BB6-C91E59DD9F6E}|SignIn.Api\\SignIn.Api.csproj|d:\\projects\\ngrxtutorial\\signin.api\\signin.api\\service\\services\\genericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A643EF8-6FA1-45A5-9BB6-C91E59DD9F6E}|SignIn.Api\\SignIn.Api.csproj|solutionrelative:signin.api\\service\\services\\genericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A643EF8-6FA1-45A5-9BB6-C91E59DD9F6E}|SignIn.Api\\SignIn.Api.csproj|d:\\projects\\ngrxtutorial\\signin.api\\signin.api\\service\\interface\\igenericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A643EF8-6FA1-45A5-9BB6-C91E59DD9F6E}|SignIn.Api\\SignIn.Api.csproj|solutionrelative:signin.api\\service\\interface\\igenericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projects\\NgrxTutorial\\SignIn.Api\\SignIn.Api\\Migrations\\20260207125034_add table 1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SignIn.Api\\Migrations\\20260207125034_add table 1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A643EF8-6FA1-45A5-9BB6-C91E59DD9F6E}|SignIn.Api\\SignIn.Api.csproj|d:\\projects\\ngrxtutorial\\signin.api\\signin.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2A643EF8-6FA1-45A5-9BB6-C91E59DD9F6E}|SignIn.Api\\SignIn.Api.csproj|solutionrelative:signin.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A643EF8-6FA1-45A5-9BB6-C91E59DD9F6E}|SignIn.Api\\SignIn.Api.csproj|d:\\projects\\ngrxtutorial\\signin.api\\signin.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2A643EF8-6FA1-45A5-9BB6-C91E59DD9F6E}|SignIn.Api\\SignIn.Api.csproj|solutionrelative:signin.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserServiceRepo.cs",
+              "DocumentMoniker": "D:\\Projects\\NgrxTutorial\\SignIn.Api\\SignIn.Api\\Service\\Services\\UserServiceRepo.cs",
+              "RelativeDocumentMoniker": "SignIn.Api\\Service\\Services\\UserServiceRepo.cs",
+              "ToolTip": "D:\\Projects\\NgrxTutorial\\SignIn.Api\\SignIn.Api\\Service\\Services\\UserServiceRepo.cs",
+              "RelativeToolTip": "SignIn.Api\\Service\\Services\\UserServiceRepo.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAArwDUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T14:02:03.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Projects\\NgrxTutorial\\SignIn.Api\\SignIn.Api\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "SignIn.Api\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\Projects\\NgrxTutorial\\SignIn.Api\\SignIn.Api\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "SignIn.Api\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAjwBcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T12:02:23.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JwtUtilsRepo.cs",
+              "DocumentMoniker": "D:\\Projects\\NgrxTutorial\\SignIn.Api\\SignIn.Api\\Service\\Services\\JwtUtilsRepo.cs",
+              "RelativeDocumentMoniker": "SignIn.Api\\Service\\Services\\JwtUtilsRepo.cs",
+              "ToolTip": "D:\\Projects\\NgrxTutorial\\SignIn.Api\\SignIn.Api\\Service\\Services\\JwtUtilsRepo.cs",
+              "RelativeToolTip": "SignIn.Api\\Service\\Services\\JwtUtilsRepo.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAAC4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T13:27:40.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExceptionHandlerMiddelware.cs",
+              "DocumentMoniker": "D:\\Projects\\NgrxTutorial\\SignIn.Api\\SignIn.Api\\Global\\ExceptionHandlerMiddelware.cs",
+              "RelativeDocumentMoniker": "SignIn.Api\\Global\\ExceptionHandlerMiddelware.cs",
+              "ToolTip": "D:\\Projects\\NgrxTutorial\\SignIn.Api\\SignIn.Api\\Global\\ExceptionHandlerMiddelware.cs",
+              "RelativeToolTip": "SignIn.Api\\Global\\ExceptionHandlerMiddelware.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAnwBgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T13:43:55.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClsUnitOfWork.cs",
+              "DocumentMoniker": "D:\\Projects\\NgrxTutorial\\SignIn.Api\\SignIn.Api\\Service\\UnitOfWork\\ClsUnitOfWork.cs",
+              "RelativeDocumentMoniker": "SignIn.Api\\Service\\UnitOfWork\\ClsUnitOfWork.cs",
+              "ToolTip": "D:\\Projects\\NgrxTutorial\\SignIn.Api\\SignIn.Api\\Service\\UnitOfWork\\ClsUnitOfWork.cs",
+              "RelativeToolTip": "SignIn.Api\\Service\\UnitOfWork\\ClsUnitOfWork.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAIA6wDMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T13:35:19.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\NgrxTutorial\\SignIn.Api\\SignIn.Api\\Program.cs",
+              "RelativeDocumentMoniker": "SignIn.Api\\Program.cs",
+              "ToolTip": "D:\\Projects\\NgrxTutorial\\SignIn.Api\\SignIn.Api\\Program.cs",
+              "RelativeToolTip": "SignIn.Api\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAArwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T12:03:53.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClsUser.cs",
+              "DocumentMoniker": "D:\\Projects\\NgrxTutorial\\SignIn.Api\\SignIn.Api\\Database\\DbModel\\ClsUser.cs",
+              "RelativeDocumentMoniker": "SignIn.Api\\Database\\DbModel\\ClsUser.cs",
+              "ToolTip": "D:\\Projects\\NgrxTutorial\\SignIn.Api\\SignIn.Api\\Database\\DbModel\\ClsUser.cs",
+              "RelativeToolTip": "SignIn.Api\\Database\\DbModel\\ClsUser.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAIwBUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T12:25:23.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IUserServiceRepo.cs",
+              "DocumentMoniker": "D:\\Projects\\NgrxTutorial\\SignIn.Api\\SignIn.Api\\Service\\Interface\\IUserServiceRepo.cs",
+              "RelativeDocumentMoniker": "SignIn.Api\\Service\\Interface\\IUserServiceRepo.cs",
+              "ToolTip": "D:\\Projects\\NgrxTutorial\\SignIn.Api\\SignIn.Api\\Service\\Interface\\IUserServiceRepo.cs",
+              "RelativeToolTip": "SignIn.Api\\Service\\Interface\\IUserServiceRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T13:59:01.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SignIn.Api",
+              "DocumentMoniker": "D:\\Projects\\NgrxTutorial\\SignIn.Api\\SignIn.Api\\SignIn.Api.csproj",
+              "RelativeDocumentMoniker": "SignIn.Api\\SignIn.Api.csproj",
+              "ToolTip": "D:\\Projects\\NgrxTutorial\\SignIn.Api\\SignIn.Api\\SignIn.Api.csproj",
+              "RelativeToolTip": "SignIn.Api\\SignIn.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-08T02:23:53.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "D:\\Projects\\NgrxTutorial\\SignIn.Api\\SignIn.Api\\Service\\UnitOfWork\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "SignIn.Api\\Service\\UnitOfWork\\IUnitOfWork.cs",
+              "ToolTip": "D:\\Projects\\NgrxTutorial\\SignIn.Api\\SignIn.Api\\Service\\UnitOfWork\\IUnitOfWork.cs",
+              "RelativeToolTip": "SignIn.Api\\Service\\UnitOfWork\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T13:34:47.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20260208031721_add table .cs",
+              "DocumentMoniker": "D:\\Projects\\NgrxTutorial\\SignIn.Api\\SignIn.Api\\Migrations\\20260208031721_add table .cs",
+              "RelativeDocumentMoniker": "SignIn.Api\\Migrations\\20260208031721_add table .cs",
+              "ToolTip": "D:\\Projects\\NgrxTutorial\\SignIn.Api\\SignIn.Api\\Migrations\\20260208031721_add table .cs",
+              "RelativeToolTip": "SignIn.Api\\Migrations\\20260208031721_add table .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T03:17:21.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Projects\\NgrxTutorial\\SignIn.Api\\SignIn.Api\\Database\\EF\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "SignIn.Api\\Database\\EF\\AppDbContext.cs",
+              "ToolTip": "D:\\Projects\\NgrxTutorial\\SignIn.Api\\SignIn.Api\\Database\\EF\\AppDbContext.cs",
+              "RelativeToolTip": "SignIn.Api\\Database\\EF\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T11:58:37.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ClsTokenModel.cs",
+              "DocumentMoniker": "D:\\Projects\\NgrxTutorial\\SignIn.Api\\SignIn.Api\\Models\\ClsTokenModel.cs",
+              "RelativeDocumentMoniker": "SignIn.Api\\Models\\ClsTokenModel.cs",
+              "ToolTip": "D:\\Projects\\NgrxTutorial\\SignIn.Api\\SignIn.Api\\Models\\ClsTokenModel.cs",
+              "RelativeToolTip": "SignIn.Api\\Models\\ClsTokenModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T03:04:50.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ClsServiceExtension.cs",
+              "DocumentMoniker": "D:\\Projects\\NgrxTutorial\\SignIn.Api\\SignIn.Api\\Service\\ServiceExtension\\ClsServiceExtension.cs",
+              "RelativeDocumentMoniker": "SignIn.Api\\Service\\ServiceExtension\\ClsServiceExtension.cs",
+              "ToolTip": "D:\\Projects\\NgrxTutorial\\SignIn.Api\\SignIn.Api\\Service\\ServiceExtension\\ClsServiceExtension.cs",
+              "RelativeToolTip": "SignIn.Api\\Service\\ServiceExtension\\ClsServiceExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T13:40:10.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Projects\\NgrxTutorial\\SignIn.Api\\SignIn.Api\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "SignIn.Api\\appsettings.Development.json",
+              "ToolTip": "D:\\Projects\\NgrxTutorial\\SignIn.Api\\SignIn.Api\\appsettings.Development.json",
+              "RelativeToolTip": "SignIn.Api\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-07T12:03:49.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IJwtUtilsRepo.cs",
+              "DocumentMoniker": "D:\\Projects\\NgrxTutorial\\SignIn.Api\\SignIn.Api\\Service\\Interface\\IJwtUtilsRepo.cs",
+              "RelativeDocumentMoniker": "SignIn.Api\\Service\\Interface\\IJwtUtilsRepo.cs",
+              "ToolTip": "D:\\Projects\\NgrxTutorial\\SignIn.Api\\SignIn.Api\\Service\\Interface\\IJwtUtilsRepo.cs",
+              "RelativeToolTip": "SignIn.Api\\Service\\Interface\\IJwtUtilsRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T13:26:10.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GenericRepo.cs",
+              "DocumentMoniker": "D:\\Projects\\NgrxTutorial\\SignIn.Api\\SignIn.Api\\Service\\Services\\GenericRepo.cs",
+              "RelativeDocumentMoniker": "SignIn.Api\\Service\\Services\\GenericRepo.cs",
+              "ToolTip": "D:\\Projects\\NgrxTutorial\\SignIn.Api\\SignIn.Api\\Service\\Services\\GenericRepo.cs",
+              "RelativeToolTip": "SignIn.Api\\Service\\Services\\GenericRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T02:24:49.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IGenericRepo.cs",
+              "DocumentMoniker": "D:\\Projects\\NgrxTutorial\\SignIn.Api\\SignIn.Api\\Service\\Interface\\IGenericRepo.cs",
+              "RelativeDocumentMoniker": "SignIn.Api\\Service\\Interface\\IGenericRepo.cs",
+              "ToolTip": "D:\\Projects\\NgrxTutorial\\SignIn.Api\\SignIn.Api\\Service\\Interface\\IGenericRepo.cs",
+              "RelativeToolTip": "SignIn.Api\\Service\\Interface\\IGenericRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T02:25:07.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20260207125034_add table 1.cs",
+              "DocumentMoniker": "D:\\Projects\\NgrxTutorial\\SignIn.Api\\SignIn.Api\\Migrations\\20260207125034_add table 1.cs",
+              "RelativeDocumentMoniker": "SignIn.Api\\Migrations\\20260207125034_add table 1.cs",
+              "ToolTip": "D:\\Projects\\NgrxTutorial\\SignIn.Api\\SignIn.Api\\Migrations\\20260207125034_add table 1.cs",
+              "RelativeToolTip": "SignIn.Api\\Migrations\\20260207125034_add table 1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T12:50:34.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Projects\\NgrxTutorial\\SignIn.Api\\SignIn.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "SignIn.Api\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Projects\\NgrxTutorial\\SignIn.Api\\SignIn.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "SignIn.Api\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAiwAcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-07T12:15:34.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Projects\\NgrxTutorial\\SignIn.Api\\SignIn.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "SignIn.Api\\appsettings.json",
+              "ToolTip": "D:\\Projects\\NgrxTutorial\\SignIn.Api\\SignIn.Api\\appsettings.json",
+              "RelativeToolTip": "SignIn.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-07T11:59:10.778Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
